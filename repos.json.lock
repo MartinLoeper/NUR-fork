@@ -146,8 +146,8 @@
             "url": "https://github.com/badele/nur-packages"
         },
         "baduhai": {
-            "rev": "fb2f03cff5da9274d673418e5f828c6b13961853",
-            "sha256": "1m8gchh7x8rp043hg1v3xkxffdfcdbqlp7fc7f185wvvrxq6z9bk",
+            "rev": "8356fce9f02a109292f3dcf984aacc193427aa69",
+            "sha256": "1bh5baqhy5svvkjywmb8sk2p9sri77nbgjdrznyp8z63yw6qb061",
             "url": "https://github.com/baduhai/nur"
         },
         "balsoft": {
@@ -363,8 +363,8 @@
             "url": "https://git.marvid.fr/eeva/nur-packages"
         },
         "eh5": {
-            "rev": "d0f500abbf869a9cf656b749b13e0830cbb06651",
-            "sha256": "0wypkfny6dcy64qi10djq3zcxz6jd94i2pvwxxdadvmpz4anrf9p",
+            "rev": "dc584856ce80ec70146f805fd8af8db8ee3dd7bb",
+            "sha256": "0z8hr4m7i0hn3slmklmilkd4s79g3nhca2wn350ymvc7dqj6g2dm",
             "url": "https://github.com/EHfive/flakes"
         },
         "emiller88": {
@@ -508,8 +508,8 @@
             "url": "https://github.com/ijohanne/nur-packages"
         },
         "ilya-fedin": {
-            "rev": "45ef54b0b1d6e873a956ce251e224a396420e0fd",
-            "sha256": "1c8y36dlc0ill3h13p7hhph66ksis12bzsmkix5xxlz7ahgcrl95",
+            "rev": "0e696899759158bc99d324dc56d848ffdda17554",
+            "sha256": "1bk1y77wlmr2izfzyfi9jzi533fxaf8pckdgdcp1ihg2wp9agvhy",
             "url": "https://github.com/ilya-fedin/nur-repository"
         },
         "immae": {
@@ -523,8 +523,8 @@
             "url": "https://github.com/imsofi/nur-pkgs"
         },
         "infinitivewitch": {
-            "rev": "74552d3d68f40d96cb3841c96dfa8f80d782aa4c",
-            "sha256": "0h8pbci2asni2ih0j9m87i4db91waqmbqzip5mw0si5kbh0pqr6f",
+            "rev": "016942b1c6795ef8ef610f6e755b427dfccb308a",
+            "sha256": "15jna500ailcc3gh1vxc2gmcf73lqk4c5f24r44kvb12hqqbhjqw",
             "url": "https://github.com/infinitivewitch/nurspellbook"
         },
         "instantos": {
@@ -675,8 +675,8 @@
             "url": "https://github.com/PhotonQuantum/nur-packages"
         },
         "linyinfeng": {
-            "rev": "17764027f142326af46401293926853f0fede3d3",
-            "sha256": "0ghswczyvinpxkrcrxrxj27dhlj77inlcxxprhq18011a3fiiril",
+            "rev": "c3c984512ff7bac2dfcc829520c7c25d7a8923ae",
+            "sha256": "01xp6gkcr4b63izx7b2gdm58jsc2gdh6yncghs40syriy8qh4yd8",
             "url": "https://github.com/linyinfeng/nur-packages"
         },
         "liyangau": {
@@ -779,6 +779,11 @@
             "rev": "8a41f8e2226c3d23c0dba612d33f2e4876a800a5",
             "sha256": "1qql58zn52fdmrvcgm1wjm5rbrqbpsqhp577s95bk3fx5qchpxfg",
             "url": "https://git.sr.ht/~misterio/nix-config"
+        },
+        "mloeper": {
+            "rev": "03da1365037c45b5eb7bcfc2e35cef8e888d8ede",
+            "sha256": "0l9dflabgxy6gsjfinp7sna71gja8gk5liixpmb7axwzqc08av4p",
+            "url": "https://github.com/MartinLoeper/nur"
         },
         "mmilata": {
             "rev": "796c9459fe9753d3c350813e34f75f170d6a66ed",
@@ -1078,8 +1083,8 @@
             "url": "https://gitlab.com/rummik/nixos/nur-packages"
         },
         "rycee": {
-            "rev": "e23bee2f435179564e4fb57f99ada0931073ba49",
-            "sha256": "0jqn0zbmyh31f11ahggxbip5jhwncaz3xz3phx98gz3c0zfm37k2",
+            "rev": "a336f90c21f8bb0caadd37b93823579e189eeb40",
+            "sha256": "1v6brcmp0hj5r1ynpgv6v74f0a4ag9a7lxmks09qgbprszc44dmg",
             "url": "https://gitlab.com/rycee/nur-expressions"
         },
         "sagikazarmark": {
@@ -1123,8 +1128,8 @@
             "url": "https://github.com/SCOTT-HAMILTON/nur-packages"
         },
         "sigprof": {
-            "rev": "e2eb48719a97ead81909413e5391cf2cf2a63327",
-            "sha256": "0y588ax9a04gwsjiy1iss34yg3rfpq3zd8d7vgw1lvqwlz5d15s0",
+            "rev": "f4b4f52c6c4d310e32a3eea3b67f930769272949",
+            "sha256": "1y1n0gi9qz5m3q02pfa6hds025aiy9hhxc4rjq99dlkf94rapgs2",
             "url": "https://github.com/sigprof/nur-packages"
         },
         "sikmir": {
@@ -1323,8 +1328,8 @@
             "url": "https://github.com/xfix/nur-packages"
         },
         "xyenon": {
-            "rev": "2559b1a67dd254e1fb0bec0044b3ced3eb601987",
-            "sha256": "06q2jfv8jx6vh0gs2z7nkfn0i4q7kdfmhi5vwwb2aflyxzi3vkcx",
+            "rev": "032796e4aab20c1bcfc27477a41ee9054e5c3295",
+            "sha256": "1sacs2p463dasqfq4l85bwb05nzrbf8bfzdhj484q1vvhaknfg2a",
             "url": "https://github.com/XYenon/nur-packages"
         },
         "yellowonion": {
